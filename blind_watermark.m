@@ -1,7 +1,4 @@
-作者：fuqiang liu
-链接：https://www.zhihu.com/question/50735753/answer/122593277
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+% https://www.zhihu.com/question/50735753/answer/122593277
 
 %%傅里叶变换加水印源代码
 %% 运行环境Matlab2010a 
